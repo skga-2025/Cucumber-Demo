@@ -16,6 +16,8 @@ public class LoopConcepts {
 		for(int j=1;j<=10;j++){
 			System.out.println(j);
 		}
+		
+		System.out.println("This is loop Concept");
 	}
 
 }
