@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class DataTypes {
 
 	//This is class body
+	// This is pulled from GitHub
 	public static void main(String[] args) {
 		
 		//Main Body
