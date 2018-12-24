@@ -90,5 +90,11 @@ public class ArrayConcept {
 			bo[1]=false;
 		System.out.println(bo[1]);
 		
+		//Array can be declared in the below format as well
+		
+		long[] l=new long[3]; // it is a proffered way
+		l[0]=10;
+		l[1]=20;
+		l[2]=30;
 	}
 }
