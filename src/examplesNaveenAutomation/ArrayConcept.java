@@ -83,5 +83,12 @@ public class ArrayConcept {
 			
 			System.out.println(pri);
 		}
+		//Boolean Array
+		
+		boolean bo[]=new boolean[2]
+			bo[0]=true;
+			bo[1]=false;
+		System.out.println(bo[1]);
+		
 	}
 }
