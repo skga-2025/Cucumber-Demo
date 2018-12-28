@@ -96,5 +96,7 @@ public class ArrayConcept {
 		l[0]=10;
 		l[1]=20;
 		l[2]=30;
+		
+		double[] myList = {1.9, 2.9, 3.4, 3.5};
 	}
 }
