@@ -1,4 +1,4 @@
-package examplesNaveenAutomation;
+package basicJavaConcept;
 
 public class VariableExamples {
 	

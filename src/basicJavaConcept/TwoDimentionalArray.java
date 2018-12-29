@@ -1,4 +1,4 @@
-package examplesNaveenAutomation;
+package basicJavaConcept;
 
 public class TwoDimentionalArray {
 
@@ -11,8 +11,8 @@ public class TwoDimentionalArray {
 		
 		int a[][]=new int[3][4];
 		
-		System.out.println(a.length);
-		System.out.println(a[0].length);
+		System.out.println(a.length); // To find out the row count
+		System.out.println(a[0].length);// To find out the col count
 		
 		//First rwo values
 		

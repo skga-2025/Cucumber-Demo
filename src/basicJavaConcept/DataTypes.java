@@ -1,4 +1,4 @@
-package examplesNaveenAutomation;
+package basicJavaConcept;
 
 import java.util.Scanner;
 
